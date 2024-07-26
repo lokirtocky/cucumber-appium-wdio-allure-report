@@ -14,6 +14,6 @@ open the project directory and open the terminal and install the
 1.npm install
 
 To run the the test suite use the following command
-`npx wdio wdio.conf.js`
+`wdio wdio.conf.js`
 to generate the report use the following command
 `allure serve allure-results`
