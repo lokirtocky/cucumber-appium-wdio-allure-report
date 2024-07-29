@@ -8,7 +8,7 @@ Install the following:
 3.Appium Inspector
 4.Appium server]()
 
-install the emulator and change the the device name as per the emulator
+create the emulator and change the the device name in (wdio.conf.js) file as per the emulator name in android studio
 
 open the project directory and open the terminal and install the
 1.npm install

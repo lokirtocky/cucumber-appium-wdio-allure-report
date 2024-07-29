@@ -1,0 +1,7 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","","","5","0","0","0","0"
+"","My Demo APP: Login with a locked user","","0","0","3","0","0"
+"","My Demo APP: Login with a standard user","","0","0","3","0","0"
+"","My Demo APP: Login with non-matching credentials","","0","0","3","0","0"
+"","My Demo APP: Login without providing a password","","0","0","3","0","0"
+"","My Demo APP: Login without providing a username","","0","0","3","0","0"

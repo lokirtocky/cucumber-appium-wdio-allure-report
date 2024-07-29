@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.Button[@content-desc=\"Tap to login with given credentials\"]"
+}
