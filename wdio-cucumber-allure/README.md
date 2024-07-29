@@ -13,6 +13,9 @@ create the emulator and change the the device name in (wdio.conf.js) file as per
 open the project directory and open the terminal and install the
 1.npm install
 
+in the DIR
+`**/cucumber-appium-wdio-allure-report/wdio-cucumber-allure**`
+
 To run the the test suite use the following command
 `wdio wdio.conf.js`
 to generate the report use the following command
